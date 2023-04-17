@@ -1,7 +1,12 @@
 body
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     color: #333;text-align:center;
+=======
+    color: red;
+    text-align:center;
+>>>>>>> 2a42734 (Modifique el color del texto)
     font-family: Arial;
     font-size: 16px;
     margin: 0;
