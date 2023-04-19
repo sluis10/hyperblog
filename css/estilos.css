@@ -1,24 +1,11 @@
 body
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    color: #333;text-align:center;
-=======
-    color: red;
+    color: #333;
     text-align:center;
->>>>>>> 2a42734 (Modifique el color del texto)
     font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
-=======
-    color:#333;
-    text-align:center;
-    font-family:arial;
-    font-size:16px;
-    margin:0;
-    padding:0;
->>>>>>> b8cdd24 (Finalizada la cabecera con diseño azul)
 }
 
 #cabecera
@@ -40,35 +27,19 @@ body
 
 #container
 {
-<<<<<<< HEAD
     width: 70%;
     padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
-=======
-    width:70%;
-    padding:0;
-    text-align:left;
-    border:1px solid #DDD;
-    margin:0 auto;
->>>>>>> b8cdd24 (Finalizada la cabecera con diseño azul)
 }
 
 #container h1
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
     font-size: 20px;
-=======
-    font-size:20px;
-=======
-    font-size: 20px;
->>>>>>> 7b4d079 (Volvi a una tipografia menos controversial)
 }
 
 #post
 {
     padding: 1em;
->>>>>>> b8cdd24 (Finalizada la cabecera con diseño azul)
 }
